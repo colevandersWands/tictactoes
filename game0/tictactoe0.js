@@ -1,3 +1,3 @@
 function play(box) {
-	box.innerHTML = 'yo';
+	box.innerHTML = box.id;
 }
